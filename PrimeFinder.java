@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * Author: Cloud Coppola
+ * Author: Claudio M Coppola
  * Date: 12/10/2017
  * Version: 1.0.0
  *
