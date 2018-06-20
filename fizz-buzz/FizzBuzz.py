@@ -1,0 +1,17 @@
+#!/usr/bin/python3
+
+import time
+
+i = 0
+
+for i in range(100):
+    time.sleep(1)
+    i = i + 1
+    if i % 3 == 0 and i % 5 == 0:
+        print("Fizz Buzz")
+    elif i % 5 == 0:
+        print("Buzz")
+    elif i % 3 == 0:
+        print("Fizz")
+    else:
+        print(i)
